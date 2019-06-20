@@ -1,2 +1,2 @@
-# firstdl4j
+# first init dl4j
 First input
